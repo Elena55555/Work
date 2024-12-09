@@ -20,7 +20,4 @@ public class Main {
                 .sorted().collect(Collectors.toList());
     }
 
-
-
-
 }
